@@ -34,3 +34,6 @@ https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
 # Allure Report
 
+![framework](https://github.com/user-attachments/assets/2a9a9f64-ef0d-4fba-bde0-890c91effb3c)
+
+
